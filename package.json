@@ -1,0 +1,14 @@
+{
+  "name": "pochiru-trigger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "townewgokgok",
+  "license": "MIT",
+  "dependencies": {
+    "noble": "^1.7.0"
+  }
+}
